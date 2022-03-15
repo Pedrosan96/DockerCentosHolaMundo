@@ -39,7 +39,7 @@ Esto es debido a que CentOS 8 ha cambiado los repositorios de paquetes de URL. P
 
 Para crear el contenedor se debe ejecutar la siguiente instrucción:
 ```sh
-$ docker run --rm  --name web -t1 -p 80:80 apache
+$ docker run --rm  --name web -t1 -p 80:80 #minombre
 ```
 
 > Nota: Para salir, pulse Ctrl + c
